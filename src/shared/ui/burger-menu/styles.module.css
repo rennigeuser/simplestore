@@ -1,0 +1,12 @@
+.burger {
+  display: flex;
+  flex-direction: column;
+  height: 2rem;
+  width: 2rem;
+  justify-content: space-around;
+}
+
+.burgerItem {
+  border-bottom: 3px solid rgb(203, 213, 225);
+  border-radius: 0.375rem;
+}
